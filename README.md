@@ -1,4 +1,4 @@
-# HR Employee Distribution Report Using Power BI
+# HR Employee Distribution Report 
 
 ## Business Problem
 
