@@ -30,8 +30,6 @@ Analyze employee data to understand workforce demographics, evaluate employee di
 
 ## Analysis Performed
 
-- Key Insights
-- Analysis Performed
 - Employee demographic analysis
 - Gender distribution analysis
 - Age group analysis
@@ -46,9 +44,6 @@ Analyze employee data to understand workforce demographics, evaluate employee di
 
 ## Key Insights
 
-The SQL analysis and Power BI dashboards explore the following aspects of workforce composition and HR performance:
-
-- Key Insights
 - Employee workforce is concentrated in the 25–54 age groups.
 - Male and female representation is nearly balanced.
 - Around 70% of employees work at headquarters.
@@ -59,26 +54,15 @@ The SQL analysis and Power BI dashboards explore the following aspects of workfo
 
 ## Business Recommendations
 
-- **Promote Workforce Diversity:** Monitor gender and race representation across departments and job titles to support fair recruitment, equal opportunities, and inclusive career development.
+- Business Recommendations
+- Improve employee retention strategies.
+- Promote gender diversity across departments.
+- Strengthen employee engagement initiatives.
+- Review departments with higher termination rates.
+- Encourage flexible and remote work opportunities.
+- Focus on career growth and employee development.
 
-- **Plan for Different Age Groups:** Use age distribution insights to support succession planning, knowledge transfer, employee development, and long-term workforce planning.
-
-- **Optimize Remote and Headquarters Staffing:** Evaluate the distribution of headquarters-based and remote employees to ensure that workplace facilities, resources, and collaboration practices meet organizational needs.
-
-- **Improve Employee Retention:** Investigate departments with higher termination rates to understand potential reasons for employee turnover and develop targeted retention strategies.
-
-- **Strengthen Departmental Workforce Planning:** Use department-wise employee counts and job title distributions to identify staffing gaps, avoid resource imbalances, and allocate employees effectively.
-
-- **Monitor Hiring and Termination Trends:** Track annual hiring and termination patterns to understand workforce growth, anticipate staffing needs, and improve recruitment planning.
-
-- **Enhance Employee Engagement:** Examine departments with shorter average tenure or higher termination rates to identify opportunities to improve employee satisfaction, career progression, and retention.
-
-- **Support Data-Driven HR Decisions:** Combine demographic, geographical, tenure, and turnover insights to support informed decisions about recruitment, employee development, and workforce allocation.
-
-- **Review Workforce Distribution Across Locations:** Use state-wise employee counts to support regional staffing decisions and ensure that workforce resources are appropriately distributed.
-
-- **Encourage Continuous HR Monitoring:** Use the Power BI dashboard to regularly review workforce composition, employee turnover, and hiring trends so that HR teams can identify changes and respond proactively.
-
+  
 ---
 
 ## Project Files
