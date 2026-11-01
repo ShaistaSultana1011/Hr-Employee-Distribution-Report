@@ -54,7 +54,6 @@ Analyze employee data to understand workforce demographics, evaluate employee di
 
 ## Business Recommendations
 
-- Business Recommendations
 - Improve employee retention strategies.
 - Promote gender diversity across departments.
 - Strengthen employee engagement initiatives.
